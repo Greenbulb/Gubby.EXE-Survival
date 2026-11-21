@@ -39,6 +39,9 @@ loadcore "winhandler.lua"
 -- shop system
 loadcore "shop.lua"
 
+-- bots
+loadcore "bots.lua"
+
 -- libraries
 loadcore "Libraries/init.lua"
 
